@@ -1,6 +1,7 @@
 @media (max-width:414px){
 body{
-	font-family: Verdana, Geneva, Tahoma, sans-serif
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #cbdefe;
 }
 	#logo {
 		font-size: 2.3rem;
@@ -26,7 +27,7 @@ body{
 	}
 
 	.header {
-		background-color: aqua;
+		background-color: #e6780a;
 		border-style: solid;
 		border-width: 1px;
 		width: 90.5%;
@@ -56,7 +57,7 @@ body{
 		grid-column-gap: 0.2rem;
 	}
 	.segundaBox{
-        background-color: yellow;
+        background-color: #f6b573;
 		grid-column-start: 2;
 		grid-column-end: 3;
 		grid-row-start: 1;
@@ -65,7 +66,7 @@ body{
 
 	}
 	.tercaBox{
-        background-color: yellow;
+        background-color: #f6b573;
 		grid-column-start: 3;
 		grid-column-end: 4;
 		grid-row-start: 1;
@@ -73,7 +74,7 @@ body{
 		border: 0.1rem solid black;
 	}
 	.quartaBox{
-        background-color: yellow;
+        background-color: #f6b573;
 		grid-column-start: 2;
 		grid-column-end: 3;
 		grid-row-start: 2;
@@ -81,7 +82,7 @@ body{
 		border: 0.1rem solid black;
 	}
 	.quintaBox{
-        background-color: yellow;
+        background-color: #f6b573;
 		grid-column-start: 3;
 		grid-column-end: 4;
 		grid-row-start: 2;
@@ -89,7 +90,7 @@ body{
 		border: 0.1rem solid black;
 	}
 	.sextaBox{
-        background-color: yellow;
+        background-color: #f6b573;
 		grid-column-start: 2;
 		grid-column-end: 3;
 		grid-row-start: 3;
@@ -97,7 +98,7 @@ body{
 		border: 0.1rem solid black;
 	}
 	.sabadoBox{
-        background-color: yellow;
+        background-color: #f6b573;
 		grid-column-start: 3;
 		grid-column-end: 4;
 		grid-row-start:3;
@@ -105,7 +106,7 @@ body{
 		border: 0.1rem solid black;
 	}
 	.domingoBox{
-        background-color: yellow;
+        background-color: #f6b573;
 		grid-column-start: 2;
 		grid-column-end: 3;
 		grid-row-start: 4;
