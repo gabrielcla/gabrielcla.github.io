@@ -113,13 +113,18 @@ body{
 		grid-row-end: 5;
 		border: 0.1rem solid black;
 	}
-	.fotoAdd{
-		width: 1rem;
-		height: 1rem;
+	.fotoMenuDir{
+		width: 1.5rem;
+		height: 1.5rem;
 	}
     .fotoMenuEsq{
-		width: 1rem;
-		height: 1rem;        
+		width: 1.5rem;
+		height: 1.5rem;        
+    }
+    
+    .fotoMenuMeio{
+		width: 2rem;
+		height: 2rem;        
     }
     
     .preto{
