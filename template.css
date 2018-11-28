@@ -62,7 +62,7 @@ body{
 		grid-column-end: 3;
 		grid-row-start: 1;
 		grid-row-end: 2;
-		border: 0.1rem solid black;
+		border: 0.2rem solid black;
 
 	}
 	.tercaBox{
@@ -71,7 +71,7 @@ body{
 		grid-column-end: 4;
 		grid-row-start: 1;
 		grid-row-end: 2;
-		border: 0.1rem solid black;
+		border: 0.2rem solid black;
 	}
 	.quartaBox{
         background-color: #f6b573;
@@ -79,7 +79,7 @@ body{
 		grid-column-end: 3;
 		grid-row-start: 2;
 		grid-row-end: 3;
-		border: 0.1rem solid black;
+		border: 0.2rem solid black;
 	}
 	.quintaBox{
         background-color: #f6b573;
@@ -87,7 +87,7 @@ body{
 		grid-column-end: 4;
 		grid-row-start: 2;
 		grid-row-end: 3;
-		border: 0.1rem solid black;
+		border: 0.2rem solid black;
 	}
 	.sextaBox{
         background-color: #f6b573;
@@ -95,7 +95,7 @@ body{
 		grid-column-end: 3;
 		grid-row-start: 3;
 		grid-row-end: 4;
-		border: 0.1rem solid black;
+		border: 0.2rem solid black;
 	}
 	.sabadoBox{
         background-color: #f6b573;
@@ -103,7 +103,7 @@ body{
 		grid-column-end: 4;
 		grid-row-start:3;
 		grid-row-end: 4;
-		border: 0.1rem solid black;
+		border: 0.2rem solid black;
 	}
 	.domingoBox{
         background-color: #f6b573;
@@ -111,7 +111,7 @@ body{
 		grid-column-end: 3;
 		grid-row-start: 4;
 		grid-row-end: 5;
-		border: 0.1rem solid black;
+		border: 0.2rem solid black;
 	}
 	.fotoMenuDir{
 		width: 1.5rem;
